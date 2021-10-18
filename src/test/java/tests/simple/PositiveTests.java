@@ -39,6 +39,7 @@ public class PositiveTests {
     void test6() {
         assertTrue(true);
     }
+
     @Test
     void test7() {
         assertTrue(true);
@@ -53,5 +54,4 @@ public class PositiveTests {
     void test9() {
         assertTrue(true);
     }
-
 }

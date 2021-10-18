@@ -23,5 +23,4 @@ public class SkippedTests {
     void test2() {
         assertTrue(false);
     }
-
 }
